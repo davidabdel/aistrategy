@@ -22,7 +22,7 @@ import { InfoCard } from './components/InfoCard';
 
 const App: React.FC = () => {
   const handleBooking = () => {
-    window.location.href = 'https://lp.alwaysanswer.com.au/cal';
+    window.location.href = 'https://ai.alwaysanswer.com.au';
   };
 
   return (
